@@ -10,4 +10,4 @@ RUN sphinx-build -M html source build
 
 FROM nginx
 
-COPY --from=DOCBUILD /build/docs/build/html/ /usr/share/nginx/html
+COPY --from=DOCBUILD /build/docs/build/html/ /usr/share/nginx/html/screenplay-documentation
