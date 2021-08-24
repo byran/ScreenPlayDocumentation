@@ -137,9 +137,9 @@ You generally only alias the ``Condition`` class you don't inherit from it.
 
 A ``Condition`` constructor takes two parameters:
 
-1. ``question`` - an ``Question`` object that inspects the state of the
-   system under test and returns
-2. ``expected`` - a ``Matcher`` object to check the result of the question
+- ``question`` - an ``Question`` object that inspects the state of the
+  system under test and returns
+- ``expected`` - a ``Matcher`` object to check the result of the question
 
 .. code-block:: python
 
