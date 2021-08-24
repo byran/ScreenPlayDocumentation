@@ -1,5 +1,5 @@
-``screenplay_selenium`` Abilities, Tasks, Actions, Matchers
-===========================================================
+Abilities, Tasks, Actions, Matchers
+===================================
 
 Abiltiies
 ---------
