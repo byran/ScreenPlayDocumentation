@@ -11,6 +11,7 @@ Welcome to ScreenPlay for Python's documentation!
    :caption: Contents:
 
    screenplay/overview.rst
+   screenplay/actions/screenplay.actions.rst
 
 
 .. toctree::
