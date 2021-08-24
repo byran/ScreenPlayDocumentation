@@ -10,22 +10,23 @@ Welcome to ScreenPlay for Python's documentation!
    :maxdepth: 2
    :caption: ScreenPlay:
 
-   screenplay/overview.rst
-   screenplay/actions/screenplay.actions.rst
+   screenplay/overview
+   screenplay/actions/screenplay.actions
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Guide:
 
-   guide/overview.rst
+   guide/overview
+   guide/filtering_the_scenarios_run
 
 
 .. toctree::
    :maxdepth: 2
    :caption: ScreenPlay Selenium support
 
-   screenplay_selenium/overview.rst
+   screenplay_selenium/overview
 
 Indices and tables
 ==================

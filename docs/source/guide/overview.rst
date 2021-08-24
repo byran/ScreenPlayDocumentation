@@ -22,7 +22,7 @@ General process for writing a feature & scenarios
 .. toctree::
    :hidden:
 
-   creating_step_definitions.rst
-   creating_a_task.rst
-   creating_a_page.rst
+   creating_step_definitions
+   creating_a_task
+   creating_a_page
 
