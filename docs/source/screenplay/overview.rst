@@ -1,5 +1,5 @@
-Screen Play Pattern for Python
-==============================
+Screen Play Core Classes
+========================
 
 .. image:: class_diagram.png
 
