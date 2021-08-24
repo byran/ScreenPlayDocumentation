@@ -8,7 +8,7 @@ Welcome to ScreenPlay for Python's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: ScreenPlay:
 
    screenplay/overview.rst
    screenplay/actions/screenplay.actions.rst
@@ -16,10 +16,9 @@ Welcome to ScreenPlay for Python's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Selenium extensions:
+   :caption: Guide:
 
-   screenplay_selenium/creating_a_page.rst
-   screenplay_selenium/creating_a_task.rst
+   guide/overview.rst
 
 
 Indices and tables
