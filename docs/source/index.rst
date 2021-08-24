@@ -13,6 +13,14 @@ Welcome to ScreenPlay for Python's documentation!
    screenplay/overview.rst
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Selenium extensions:
+
+   screenplay_selenium/creating_a_page.rst
+   screenplay_selenium/creating_a_task.rst
+
+
 Indices and tables
 ==================
 
