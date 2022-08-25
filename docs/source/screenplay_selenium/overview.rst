@@ -34,11 +34,15 @@ Matchers
 * screenplay.matchers.contains
 * screenplay.matchers.equals
 * screenplay.matchers.is_an_empty_list
+* screenplay.matchers.is_false
+* screenplay.matchers.is_true
 
 ``screenplay_selenium.matchers``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* screenplay_selenium.matchers.is_disabled
 * screenplay_selenium.matchers.is_displayed
+* screenplay_selenium.matchers.is_enabled
 * screenplay_selenium.matchers.is_not_present
 
 Other ScreenPlay features
